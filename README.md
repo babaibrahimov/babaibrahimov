@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web developing
 - 🌱 I’m currently learning from internet
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.instagram.com/ibrah1mov._
+- 📫 How to reach me https://www.instagram.com/babaibrahimovv
 
 
 <!---
