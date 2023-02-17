@@ -2,12 +2,12 @@
 - 👀 I’m interested in Web developing, Design
 - 🌱 I’m currently learning from Youtube, Internet, Udemy, Github, FreeCodeCamp...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me http://www.babaibrahimov.com/#contact
+- 📫 How to reach me http://www.babaibrahimov.com
 
 
 - Codepen: https://codepen.io/babaibrahimovv
 - Instagram: https://www.instagram.com/babaibrahimovv
-- Twitter: https://twitter.com/ibrahimovvv23
+- Twitter: https://twitter.com/babaibrahimovv
 - Facebook: https://facebook.com/baba.ibrahimov.10
 
 <!---
