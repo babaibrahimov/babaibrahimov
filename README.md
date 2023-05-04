@@ -9,7 +9,7 @@
 - Instagram: https://www.instagram.com/babaibrahimovv
 - Twitter: https://twitter.com/babaibrahimovv
 - Facebook: https://facebook.com/babaibrahimovv
-- Linkedin: https://linkedin.com/in/babaibrahimovv/
+- Linkedin: https://linkedin.com/in/babaibrahimovv
 
 <!---
 babaibrahimov/babaibrahimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
