@@ -8,7 +8,7 @@
 - Codepen: https://codepen.io/babaibrahimovv
 - Instagram: https://www.instagram.com/babaibrahimovv
 - Twitter: https://twitter.com/babaibrahimovv
-- Facebook: https://facebook.com/baba.ibrahimov.10
+- Facebook: https://facebook.com/babaibrahimovv
 - Linkedin: https://linkedin.com/in/babaibrahimovv/
 
 <!---
