@@ -11,7 +11,8 @@
 - Linkedin: https://linkedin.com/in/babaibrahimovv
 
 ![Baba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=babaibrahimov&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=babaibrahimov&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=babaibrahimov&theme=radical&row=1&column=6)
+
 
 
 
