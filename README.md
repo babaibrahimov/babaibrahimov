@@ -4,7 +4,7 @@
 
 ![Baba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=babaibrahimov&show_icons=true&theme=radical)
 
-[![GlowHub Timeline](https://img.shields.io/badge/GlowHub-3D_Timeline-purple?style=for-the-badge&logo=github)](https://glowhub.pages.dev/embed?username=babaibrahimov&theme=purple)
+[![GlowHub Timeline](https://img.shields.io/badge/GlowHub-3D_Timeline-purple?style=for-the-badge&logo=github)](https://glowhub.pages.dev/embed?username=babaibrahimov&theme=purple)  [![GitHub Skyline](https://img.shields.io/badge/GitHub_Skyline-3D_Commit_View-blue?style=for-the-badge&logo=github)](https://skyline.github.com/babaibrahimov)
 
 
 - 👋 Hi, I’m @babaibrahimov
