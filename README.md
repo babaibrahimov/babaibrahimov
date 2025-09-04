@@ -13,8 +13,7 @@
 - Codepen: https://codepen.io/babaibrahimovv
 - Instagram: https://www.instagram.com/babaibrahimovv
 - Facebook: https://facebook.com/babaibrahimovv
-- Linkedin: https://linkedin.com/in/babaibrahimovv
-
+- Linkedin: https://linkedin.com/in/babaibrahimov
 
 
 <!---
