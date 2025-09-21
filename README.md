@@ -18,5 +18,5 @@
 - Linkedin: https://linkedin.com/in/babaibrahimov
 
 - My new project
-www.electronix.az <--- coming soon
+https://www.electronix.az <--- coming soon
 
