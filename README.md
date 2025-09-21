@@ -17,3 +17,6 @@
 - Facebook: https://facebook.com/babaibrahimovv
 - Linkedin: https://linkedin.com/in/babaibrahimov
 
+- My new project
+www.electronix.az <--- coming soon
+
