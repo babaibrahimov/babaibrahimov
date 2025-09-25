@@ -1,4 +1,4 @@
-<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=babaibrahimov&theme=radical&row=1&column=6) -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=babaibrahimov&theme=radical&row=1&column=6)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babaibrahimov&layout=compact&theme=radical)
 
